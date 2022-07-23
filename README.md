@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-Analysis of the world Weather
+Use today's current weather to plan for a spontaneous vacation.
