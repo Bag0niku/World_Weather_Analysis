@@ -27,4 +27,10 @@ WeatherPy.ipynb and VacationPy.ipynb were my initial exploring of the data avail
 ![](/Vacation_Itinerary/Vacation_Itinerary_map.png)
 
 
-
+## Future Changes
+- If there are multiple cities that share a name, CityPy does not varify the country code is correct for the GPS location.
+  - Naples, USA vs. Naples, Italy
+  - Southbridge, New Zealand vs. Southbridge, MA, USA
+- Filter for more weather types.
+- improve driving directions to the hotel listed.  Currently only driving to the city
+- try getting forcaste information to plan for several days
